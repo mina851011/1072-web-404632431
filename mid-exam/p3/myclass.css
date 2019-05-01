@@ -1,0 +1,37 @@
+table{
+    border: 1 solid black;
+    height: 150px;
+}
+td{
+    border: 1 solid black;
+    border-collapse: collapse;
+}
+#name{
+    background: rgb(88, 88, 187);
+    text-align: center;
+    color: white;
+}
+#class{
+    background: rgb(50, 50, 211);
+    width: 300px;
+    color: white;
+    text-align: center;
+}
+#week{
+    background: rgb(143, 245, 231);
+}
+th{
+    background: rgb(231, 142, 82);
+}
+#time{
+    background: rgb(241, 197, 167);
+}
+#blank{
+    background: rgb(133, 184, 91);
+}
+#contact{
+    background: rgb(160, 100, 216);
+}
+#grey{
+    background: rgb(238, 242, 243);
+}
