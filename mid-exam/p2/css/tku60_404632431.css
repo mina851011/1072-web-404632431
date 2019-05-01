@@ -1,0 +1,28 @@
+#container{
+    width: 1000px;
+    height: 500px;
+    border: 5px solid black;
+}
+aside{
+    width: 20%;
+}
+article{
+    width: 80%;
+    float: right;
+    height: 500px;
+    margin: 0px;
+}
+nav ul{
+    list-style: none;
+    width: 100px;
+}
+
+nav ul li{
+  background: rgb(233, 237, 240);
+  margin: 5px;
+  border: 1px solid black;
+  text-align: center;
+}
+#display{
+    width: 100%;
+}
